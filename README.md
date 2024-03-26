@@ -5,7 +5,7 @@ Lançado em 1996 o tamagoshi foi criado por Aki Maita, uma designer japonesa da 
 # Funcionalidades:
 ・ Escolha um nome para o seu Tamagotchi.‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  
 ・ Alimente-o quando estiver com fome.‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  
-・ Cuide de sua saúde quando estiver doente.
+・ Cuide de sua saúde quando estiver doente.‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  
 ・ Dê descanso quando estiver cansado.
 ・ Brinque com ele para mantê-lo entretido.
 `O jogo continua até que o Tamagotchi morra ou o jogador decida sair.`
