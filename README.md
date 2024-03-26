@@ -3,7 +3,7 @@
 Lançado em 1996 o tamagoshi foi criado por Aki Maita, uma designer japonesa da empresa Bandai! Ele é um bichinho virtual que o jogador deve cuidar, alimentando, curando, dando descanso e brincando com ele para mantê-lo feliz e saudável.
 
 # Funcionalidades:
-・ Escolha um nome para o seu Tamagotchi.
+・ Escolha um nome para o seu Tamagotchi.‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  
 ・ Alimente-o quando estiver com fome.
 ・ Cuide de sua saúde quando estiver doente.
 ・ Dê descanso quando estiver cansado.
