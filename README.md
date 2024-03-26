@@ -11,7 +11,7 @@ Lançado em 1996 o tamagoshi foi criado por Aki Maita, uma designer japonesa da 
 `O jogo continua até que o Tamagotchi morra ou o jogador decida sair.`
 
 # Como Jogar?
-Clone este repositório em sua máquina local.
+Clone este repositório em sua máquina local.‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  
 Certifique-se de ter o Python instalado em seu sistema.
 Execute o arquivo tamagotchi.py.
 Escolha um nome para o seu Tamagotchi quando solicitado.
